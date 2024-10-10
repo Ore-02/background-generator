@@ -1,0 +1,27 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "testEnvironment": "jsdom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ore-02/background-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ore-02/background-generator/issues"
+  },
+  "homepage": "https://github.com/Ore-02/background-generator#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0"
+  }
+}
